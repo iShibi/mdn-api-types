@@ -29,5 +29,5 @@ export interface MetadataTotal {
 
 // This one is always empty, so idea what it is for now
 export interface Suggestion {
-
+  // TODO
 }

@@ -1,6 +1,6 @@
 {
   "name": "mdn-api-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Type definitions for MDN API",
   "main": "./dist/default/index.js",
   "types": "./dist/default/index.d.ts",
@@ -30,5 +30,12 @@
   "type": "module",
   "files": [
     "/dist"
+  ],
+  "keywords": [
+    "MDN",
+    "mozilla",
+    "API",
+    "typescript",
+    "types"
   ]
 }
